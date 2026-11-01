@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34237098/README.md)
 <!-- PROJECT LOGO -->
 
 <br />
